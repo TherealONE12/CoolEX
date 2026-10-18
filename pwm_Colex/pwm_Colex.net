@@ -1,0 +1,2688 @@
+(export
+	(version "E")
+	(design
+		(source "/home/jakob/Projects/privat/active/PWM_COOLEX/pwm_Colex/pwm_Colex.kicad_sch")
+		(date "2026-10-18T19:13:47")
+		(tool "Eeschema 10.0.6")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "pwm_Colex.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C1")
+			(value "1uF")
+			(footprint "easyeda2kicad:ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP")
+			(description "capacitor, non-polarized/bipolar")
+			(fields
+				(field
+					(name "Indicator") "+")
+				(field
+					(name "Rating") "V")
+				(field
+					(name "Footprint") "easyeda2kicad:ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "capacitor, non-polarized/bipolar")
+			)
+			(libsource
+				(lib "PCM_Elektuur")
+				(part "C")
+				(description "capacitor, non-polarized/bipolar")
+			)
+			(property
+				(name "Indicator")
+				(value "+")
+			)
+			(property
+				(name "Rating")
+				(value "V")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "C cap capacitor non-polarized bipolar")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2bd89d9c-de8e-4745-be0e-3fc366a07bdd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "100nF")
+			(footprint "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+			(description "capacitor, non-polarized/bipolar")
+			(fields
+				(field
+					(name "Indicator") "+")
+				(field
+					(name "Rating") "V")
+				(field
+					(name "Footprint") "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "capacitor, non-polarized/bipolar")
+			)
+			(libsource
+				(lib "PCM_Elektuur")
+				(part "C")
+				(description "capacitor, non-polarized/bipolar")
+			)
+			(property
+				(name "Indicator")
+				(value "+")
+			)
+			(property
+				(name "Rating")
+				(value "V")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "C cap capacitor non-polarized bipolar")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "18534be5-b5f9-439e-ae94-b087ada1deec")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C3")
+			(value "10nF")
+			(description "capacitor, non-polarized/bipolar")
+			(fields
+				(field
+					(name "Indicator") "+")
+				(field
+					(name "Rating") "V")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "capacitor, non-polarized/bipolar")
+			)
+			(libsource
+				(lib "PCM_Elektuur")
+				(part "C")
+				(description "capacitor, non-polarized/bipolar")
+			)
+			(property
+				(name "Indicator")
+				(value "+")
+			)
+			(property
+				(name "Rating")
+				(value "V")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "C cap capacitor non-polarized bipolar")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "23681c45-d714-41df-abae-9d6100ed0537")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C4")
+			(value "1nF")
+			(description "capacitor, non-polarized/bipolar")
+			(fields
+				(field
+					(name "Indicator") "+")
+				(field
+					(name "Rating") "V")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "capacitor, non-polarized/bipolar")
+			)
+			(libsource
+				(lib "PCM_Elektuur")
+				(part "C")
+				(description "capacitor, non-polarized/bipolar")
+			)
+			(property
+				(name "Indicator")
+				(value "+")
+			)
+			(property
+				(name "Rating")
+				(value "V")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "C cap capacitor non-polarized bipolar")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1a5377ae-4b34-42cd-bf73-4c7671896e37")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C5")
+			(value "10uF")
+			(footprint "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+			(description "capacitor, non-polarized/bipolar")
+			(fields
+				(field
+					(name "Indicator") "+")
+				(field
+					(name "Rating") "V")
+				(field
+					(name "Footprint") "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "capacitor, non-polarized/bipolar")
+			)
+			(libsource
+				(lib "PCM_Elektuur")
+				(part "C")
+				(description "capacitor, non-polarized/bipolar")
+			)
+			(property
+				(name "Indicator")
+				(value "+")
+			)
+			(property
+				(name "Rating")
+				(value "V")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "C cap capacitor non-polarized bipolar")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "154ac3f6-4d60-47d5-b33d-b0982a29b4fd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D1")
+			(value "1N4148")
+			(footprint "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal")
+			(datasheet "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf")
+			(description "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal")
+				(field
+					(name "Datasheet") "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf")
+				(field
+					(name "Description") "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Diode_AKL")
+				(part "1N4148")
+				(description "Diode, Generic symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode 1N4148")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c12b21f5-5dfd-4d41-85bc-d93cf47dcc2e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D2")
+			(value "1N4148")
+			(footprint "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal")
+			(datasheet "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf")
+			(description "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal")
+				(field
+					(name "Datasheet") "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf")
+				(field
+					(name "Description") "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Diode_AKL")
+				(part "1N4148")
+				(description "Diode, Generic symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode 1N4148")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2dc3cd30-fbd5-4ef1-a39c-df4bf04e00f1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D3")
+			(value "1N5819")
+			(footprint "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal")
+			(datasheet "https://www.tme.eu/Document/1dcb17797cd83f32e896ece3030f14cc/1n5817-19.pdf")
+			(description "DO-41 Schottky diode, 40V, 1A, Alternate KiCAD Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal")
+				(field
+					(name "Datasheet") "https://www.tme.eu/Document/1dcb17797cd83f32e896ece3030f14cc/1n5817-19.pdf")
+				(field
+					(name "Description") "DO-41 Schottky diode, 40V, 1A, Alternate KiCAD Library")
+			)
+			(libsource
+				(lib "PCM_Diode_Schottky_AKL")
+				(part "1N5819")
+				(description "Schottky diode, Generic Symbol, Alternate KiCAD Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode Schottky 1N5819")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3f6027f4-8c07-4895-bc10-ce21b6e77d41")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "USB_C_Receptacle")
+			(footprint "PCM_SparkFun-Connector:USB-C_16")
+			(datasheet "https://www.usb.org/sites/default/files/documents/usb_type-c.zip")
+			(description "USB 2.0-only Type-C Receptacle connector")
+			(fields
+				(field
+					(name "PROD_ID") "CONN-14122")
+				(field
+					(name "Footprint") "PCM_SparkFun-Connector:USB-C_16")
+				(field
+					(name "Datasheet") "https://www.usb.org/sites/default/files/documents/usb_type-c.zip")
+				(field
+					(name "Description") "USB 2.0-only Type-C Receptacle connector")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Connector")
+				(part "USB_C_Receptacle")
+				(description "USB 2.0-only Type-C Receptacle connector")
+			)
+			(property
+				(name "PROD_ID")
+				(value "CONN-14122")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun usb universal serial bus type-C USB2.0")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "USB*C*Receptacle*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3c890ce9-efc0-4e88-afd8-c43c24a54027")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "S")
+						)
+						(pin
+							(num "NC1")
+						)
+						(pin
+							(num "NC2")
+						)
+						(pin
+							(num "NC3")
+						)
+						(pin
+							(num "GND")
+						)
+						(pin
+							(num "A8")
+						)
+						(pin
+							(num "B8")
+						)
+						(pin
+							(num "VBUS")
+						)
+						(pin
+							(num "A6")
+						)
+						(pin
+							(num "B6")
+						)
+						(pin
+							(num "A7")
+						)
+						(pin
+							(num "B7")
+						)
+						(pin
+							(num "A5")
+						)
+						(pin
+							(num "B5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J2")
+			(value "Conn_01x03")
+			(footprint "4ms_Connector:Pins_1x03_2.54mm_TH_AudioInsRGndL")
+			(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			(fields
+				(field
+					(name "Specifications") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Manufacturer") "TAD")
+				(field
+					(name "Part Number") "1-0301FBV0T")
+				(field
+					(name "Footprint") "4ms_Connector:Pins_1x03_2.54mm_TH_AudioInsRGndL")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(libsource
+				(lib "PCM_4ms_Connector")
+				(part "Conn_01x03")
+				(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Specifications")
+				(value "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Manufacturer")
+				(value "TAD")
+			)
+			(property
+				(name "Part Number")
+				(value "1-0301FBV0T")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Conn_01x03")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "eb30a031-a23c-48a1-942a-e97279f6d28a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J3")
+			(value "Conn_01x03")
+			(footprint "PCM_SparkFun-Connector:1x03_P2.54mm")
+			(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			(fields
+				(field
+					(name "Specifications") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Manufacturer") "TAD")
+				(field
+					(name "Part Number") "1-0301FBV0T")
+				(field
+					(name "Footprint") "PCM_SparkFun-Connector:1x03_P2.54mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(libsource
+				(lib "PCM_4ms_Connector")
+				(part "Conn_01x03")
+				(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Specifications")
+				(value "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Manufacturer")
+				(value "TAD")
+			)
+			(property
+				(name "Part Number")
+				(value "1-0301FBV0T")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Conn_01x03")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "efcd58a9-695e-4a3b-98b5-6df1189d9fb4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J4")
+			(value "Conn_01x03")
+			(footprint "PCM_SparkFun-Connector:1x03_P2.54mm")
+			(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			(fields
+				(field
+					(name "Specifications") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Manufacturer") "TAD")
+				(field
+					(name "Part Number") "1-0301FBV0T")
+				(field
+					(name "Footprint") "PCM_SparkFun-Connector:1x03_P2.54mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(libsource
+				(lib "PCM_4ms_Connector")
+				(part "Conn_01x03")
+				(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Specifications")
+				(value "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Manufacturer")
+				(value "TAD")
+			)
+			(property
+				(name "Part Number")
+				(value "1-0301FBV0T")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Conn_01x03")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "07d7d64b-95d3-4317-916d-9aaa4fbccc73")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J5")
+			(value "Conn_01x03")
+			(footprint "PCM_SparkFun-Connector:1x03_P2.54mm")
+			(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			(fields
+				(field
+					(name "Specifications") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Manufacturer") "TAD")
+				(field
+					(name "Part Number") "1-0301FBV0T")
+				(field
+					(name "Footprint") "PCM_SparkFun-Connector:1x03_P2.54mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(libsource
+				(lib "PCM_4ms_Connector")
+				(part "Conn_01x03")
+				(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Specifications")
+				(value "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Manufacturer")
+				(value "TAD")
+			)
+			(property
+				(name "Part Number")
+				(value "1-0301FBV0T")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Conn_01x03")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "295793ed-01c3-465c-bd19-0f8797885965")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J6")
+			(value "Conn_01x03")
+			(footprint "PCM_SparkFun-Connector:1x03_P2.54mm")
+			(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			(fields
+				(field
+					(name "Specifications") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Manufacturer") "TAD")
+				(field
+					(name "Part Number") "1-0301FBV0T")
+				(field
+					(name "Footprint") "PCM_SparkFun-Connector:1x03_P2.54mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(libsource
+				(lib "PCM_4ms_Connector")
+				(part "Conn_01x03")
+				(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Specifications")
+				(value "HEADER 1x3 MALE PINS 0.100” 180deg")
+			)
+			(property
+				(name "Manufacturer")
+				(value "TAD")
+			)
+			(property
+				(name "Part Number")
+				(value "1-0301FBV0T")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Conn_01x03")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c5835083-7594-4e38-85e1-f2f28755779b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q1")
+			(value "AO3400A")
+			(footprint "PCM_Package_TO_SOT_SMD_AKL:SOT-23")
+			(datasheet "https://www.tme.eu/Document/d4ede4a51fd4cb2a092d6e1960f91635/AO3400A.pdf")
+			(description "SOT-23 N-MOSFET enchancement mode transistor, 30V, 5.7A, 1.4W, Alternate KiCAD Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Package_TO_SOT_SMD_AKL:SOT-23")
+				(field
+					(name "Datasheet") "https://www.tme.eu/Document/d4ede4a51fd4cb2a092d6e1960f91635/AO3400A.pdf")
+				(field
+					(name "Description") "SOT-23 N-MOSFET enchancement mode transistor, 30V, 5.7A, 1.4W, Alternate KiCAD Library")
+			)
+			(libsource
+				(lib "PCM_Transistor_MOSFET_AKL")
+				(part "AO3400A")
+				(description "N-MOSFET enchancement mode transistor, generic symbol, Alternate KiCAD Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "enchancement mosfet nmosfet n-mosfet nmos n-mos emos emosfet AO3400A")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "eb99d82c-ec29-45d4-b929-7b42f2e4afb3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "24k")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "629ec170-2180-4e01-9cd3-5f8982d396ab")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "50k")
+			(footprint "PCM_SparkFun-Resistor:Bourns-PDB18")
+			(datasheet "https://www.bourns.com/docs/Product-Datasheets/PDB18.pdf")
+			(description "Potentiometer")
+			(fields
+				(field
+					(name "PROD_ID")
+				)
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:Bourns-PDB18")
+				(field
+					(name "Datasheet") "https://www.bourns.com/docs/Product-Datasheets/PDB18.pdf")
+				(field
+					(name "Description") "Potentiometer")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R_Potentiometer")
+				(description "Potentiometer")
+			)
+			(property
+				(name "PROD_ID")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun resistor variable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Potentiometer*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d9d70c9a-3e54-4b6f-919e-10d28545f8fc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "1k")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3edd3d77-4924-425c-bbb4-f9d435db99d7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "10k")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6cab8d9c-0e0e-4157-8fd8-48c9f4d868a3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "100")
+			(footprint "PCM_SparkFun-Resistor:R_0603_1608Metric")
+			(datasheet "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(description "Resistor")
+			(fields
+				(field
+					(name "PROD_ID") "RES-07856")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "PCM_SparkFun-Resistor")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "PROD_ID")
+				(value "RES-07856")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "SparkFun R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fb99bb5a-f534-4c1f-9534-e0fabd23f514")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "NE555DR")
+			(footprint "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+			(datasheet "https://lcsc.com/product-detail/Timer_TI_NE555DR_NE555DR_C7593.html")
+			(fields
+				(field
+					(name "Manufacturer") "TI(德州仪器)")
+				(field
+					(name "MPN") "NE555DR")
+				(field
+					(name "LCSC Part") "C7593")
+				(field
+					(name "Footprint") "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+				(field
+					(name "Datasheet") "https://lcsc.com/product-detail/Timer_TI_NE555DR_NE555DR_C7593.html")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "easyeda2kicad")
+				(part "NE555DR")
+				(description "")
+			)
+			(property
+				(name "Manufacturer")
+				(value "TI(德州仪器)")
+			)
+			(property
+				(name "MPN")
+				(value "NE555DR")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C7593")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Timer")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6b3d6a4a-d4e3-48bb-a54f-7e5b0f0caf97")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "CH224K")
+			(footprint "easyeda2kicad:ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP")
+			(datasheet "https://www.lcsc.com/datasheet/C970725.pdf")
+			(fields
+				(field
+					(name "Manufacturer") "WCH(南京沁恒)")
+				(field
+					(name "MPN") "CH224K")
+				(field
+					(name "LCSC Part") "C970725")
+				(field
+					(name "Footprint") "easyeda2kicad:ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C970725.pdf")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "easyeda2kicad")
+				(part "CH224K")
+				(description "")
+			)
+			(property
+				(name "Manufacturer")
+				(value "WCH(南京沁恒)")
+			)
+			(property
+				(name "MPN")
+				(value "CH224K")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C970725")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pwm_Colex.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "USB ICs")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8aa3117f-20f1-4843-96d0-28525ef924c8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "PCM_4ms_Connector")
+			(part "Conn_01x03")
+			(description "HEADER 1x3 MALE PINS 0.100” 180deg")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x03")
+				(field
+					(name "Footprint") "4ms_Connector:Pins_1x03_2.54mm_TH_AudioInsRGndL")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Specifications") "HEADER 1x3 MALE PINS 0.100” 180deg")
+				(field
+					(name "Manufacturer") "TAD")
+				(field
+					(name "Part Number") "1-0301FBV0T")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_Diode_AKL")
+			(part "1N4148")
+			(description "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library")
+			(docs "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf")
+			(footprints
+				(fp "TO-???*")
+				(fp "*_Diode_*")
+				(fp "*SingleDiode*")
+				(fp "D_*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "1N4148")
+				(field
+					(name "Footprint") "PCM_Diode_THT_AKL:D_DO-35_SOD27_P7.62mm_Horizontal")
+				(field
+					(name "Datasheet") "https://datasheet.octopart.com/1N4148TR-ON-Semiconductor-datasheet-42765246.pdf")
+				(field
+					(name "Description") "DO-35 Diode, Small Signal, Fast Switching, 75V, 150mA, 4ns, Alternate KiCad Library")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_Diode_Schottky_AKL")
+			(part "1N5819")
+			(description "DO-41 Schottky diode, 40V, 1A, Alternate KiCAD Library")
+			(docs "https://www.tme.eu/Document/1dcb17797cd83f32e896ece3030f14cc/1n5817-19.pdf")
+			(footprints
+				(fp "TO-???*")
+				(fp "*_Diode_*")
+				(fp "*SingleDiode*")
+				(fp "D_*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "1N5819")
+				(field
+					(name "Footprint") "PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal")
+				(field
+					(name "Datasheet") "https://www.tme.eu/Document/1dcb17797cd83f32e896ece3030f14cc/1n5817-19.pdf")
+				(field
+					(name "Description") "DO-41 Schottky diode, 40V, 1A, Alternate KiCAD Library")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_Elektuur")
+			(part "C")
+			(description "capacitor, non-polarized/bipolar")
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "capacitor, non-polarized/bipolar")
+				(field
+					(name "Indicator") "+")
+				(field
+					(name "Rating") "V")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "+")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "-")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_SparkFun-Connector")
+			(part "USB_C_Receptacle")
+			(description "USB 2.0-only Type-C Receptacle connector")
+			(docs "https://www.usb.org/sites/default/files/documents/usb_type-c.zip")
+			(footprints
+				(fp "USB*C*Receptacle*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "USB_C_Receptacle")
+				(field
+					(name "Footprint") "PCM_SparkFun-Connector:USB-C_16")
+				(field
+					(name "Datasheet") "https://www.usb.org/sites/default/files/documents/usb_type-c.zip")
+				(field
+					(name "Description") "USB 2.0-only Type-C Receptacle connector")
+				(field
+					(name "PROD_ID") "CONN-14122")
+			)
+			(pins
+				(pin
+					(num "A5")
+					(name "CC1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "A6")
+					(name "D+")
+					(type "bidirectional")
+				)
+				(pin
+					(num "A7")
+					(name "D-")
+					(type "bidirectional")
+				)
+				(pin
+					(num "A8")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "B5")
+					(name "CC2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B6")
+					(name "D+")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B7")
+					(name "D-")
+					(type "bidirectional")
+				)
+				(pin
+					(num "B8")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "GND")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "NC1")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "NC2")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "NC3")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "S")
+					(name "SHIELD")
+					(type "passive")
+				)
+				(pin
+					(num "VBUS")
+					(name "VBUS")
+					(type "power_out")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_SparkFun-Resistor")
+			(part "R")
+			(description "Resistor")
+			(docs "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "1k")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:R_0603_1608Metric")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/20035/dcrcwe3.pdf")
+				(field
+					(name "Description") "Resistor")
+				(field
+					(name "PROD_ID") "RES-07856")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_SparkFun-Resistor")
+			(part "R_Potentiometer")
+			(description "Potentiometer")
+			(docs "https://www.bourns.com/docs/Product-Datasheets/PDB18.pdf")
+			(footprints
+				(fp "Potentiometer*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R_Potentiometer")
+				(field
+					(name "Footprint") "PCM_SparkFun-Resistor:Bourns-PDB18")
+				(field
+					(name "Datasheet") "https://www.bourns.com/docs/Product-Datasheets/PDB18.pdf")
+				(field
+					(name "Description") "Potentiometer")
+				(field
+					(name "PROD_ID")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_Transistor_MOSFET_AKL")
+			(part "AO3400A")
+			(description "SOT-23 N-MOSFET enchancement mode transistor, 30V, 5.7A, 1.4W, Alternate KiCAD Library")
+			(docs "https://www.tme.eu/Document/d4ede4a51fd4cb2a092d6e1960f91635/AO3400A.pdf")
+			(fields
+				(field
+					(name "Reference") "Q")
+				(field
+					(name "Value") "AO3400A")
+				(field
+					(name "Footprint") "PCM_Package_TO_SOT_SMD_AKL:SOT-23")
+				(field
+					(name "Datasheet") "https://www.tme.eu/Document/d4ede4a51fd4cb2a092d6e1960f91635/AO3400A.pdf")
+				(field
+					(name "Description") "SOT-23 N-MOSFET enchancement mode transistor, 30V, 5.7A, 1.4W, Alternate KiCAD Library")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "G")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "S")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "D")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "easyeda2kicad")
+			(part "CH224K")
+			(docs "https://www.lcsc.com/datasheet/C970725.pdf")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "CH224K")
+				(field
+					(name "Footprint") "easyeda2kicad:ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C970725.pdf")
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Manufacturer") "WCH(南京沁恒)")
+				(field
+					(name "MPN") "CH224K")
+				(field
+					(name "LCSC Part") "C970725")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VDD")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "CFG2")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "CFG3")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "DP")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "DM")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "CC2")
+					(type "unspecified")
+				)
+				(pin
+					(num "7")
+					(name "CC1")
+					(type "unspecified")
+				)
+				(pin
+					(num "8")
+					(name "VBUS")
+					(type "unspecified")
+				)
+				(pin
+					(num "9")
+					(name "CFG1")
+					(type "unspecified")
+				)
+				(pin
+					(num "10")
+					(name "PG")
+					(type "unspecified")
+				)
+				(pin
+					(num "11")
+					(name "GND")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "easyeda2kicad")
+			(part "NE555DR")
+			(docs "https://lcsc.com/product-detail/Timer_TI_NE555DR_NE555DR_C7593.html")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "NE555DR")
+				(field
+					(name "Footprint") "easyeda2kicad:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL")
+				(field
+					(name "Datasheet") "https://lcsc.com/product-detail/Timer_TI_NE555DR_NE555DR_C7593.html")
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Manufacturer") "TI(德州仪器)")
+				(field
+					(name "MPN") "NE555DR")
+				(field
+					(name "LCSC Part") "C7593")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "GND")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "TRIG")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "OUT")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "RST")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "CONT")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "THRES")
+					(type "unspecified")
+				)
+				(pin
+					(num "7")
+					(name "DISCH")
+					(type "unspecified")
+				)
+				(pin
+					(num "8")
+					(name "VCC")
+					(type "unspecified")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "PCM_4ms_Connector")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_4ms_4ms-kicad-lib/4ms_Connector.kicad_sym")
+		)
+		(library
+			(logical "PCM_Diode_AKL")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_AKL.kicad_sym")
+		)
+		(library
+			(logical "PCM_Diode_Schottky_AKL")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Diode_Schottky_AKL.kicad_sym")
+		)
+		(library
+			(logical "PCM_Elektuur")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_gitlab_mgyger_elektuur/Elektuur.kicad_sym")
+		)
+		(library
+			(logical "PCM_SparkFun-Connector")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_sparkfun_SparkFun-KiCad-Libraries/SparkFun-Connector.kicad_sym")
+		)
+		(library
+			(logical "PCM_SparkFun-Resistor")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_sparkfun_SparkFun-KiCad-Libraries/SparkFun-Resistor.kicad_sym")
+		)
+		(library
+			(logical "PCM_Transistor_MOSFET_AKL")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Transistor_MOSFET_AKL.kicad_sym")
+		)
+		(library
+			(logical "easyeda2kicad")
+			(uri "/home/jakob/Projects/addons-kicad/kicad-libraries/easyeda2kicad.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "2")
+				(pinfunction "-_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "2")
+				(pinfunction "-_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C3")
+				(pin "2")
+				(pinfunction "-_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "1")
+				(pinfunction "+_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "2")
+				(pinfunction "-_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "GND")
+				(pinfunction "GND_GND")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "S")
+				(pinfunction "SHIELD_S")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q1")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U2")
+				(pin "11")
+				(pinfunction "GND_11")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "2")
+			(name "Net-(C1-+)")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pinfunction "+_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "1")
+				(pinfunction "+_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "1")
+				(pinfunction "+_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D3")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "VBUS")
+				(pinfunction "VBUS_VBUS")
+				(pintype "power_out")
+			)
+			(node
+				(ref "J2")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J3")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J4")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J5")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J6")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "RST_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "VCC_8")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "VDD_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U2")
+				(pin "8")
+				(pinfunction "VBUS_8")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(C3-+)")
+			(class "Default")
+			(node
+				(ref "C3")
+				(pin "1")
+				(pinfunction "+_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "CONT_5")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(C4--)")
+			(class "Default")
+			(node
+				(ref "C4")
+				(pin "2")
+				(pinfunction "-_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "TRIG_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "THRES_6")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(D1-A)")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(D2-K)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(D3-A)")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J3")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J4")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J5")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J6")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q1")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(J1-CC1)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A5")
+				(pinfunction "CC1_A5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U2")
+				(pin "7")
+				(pinfunction "CC1_7")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(J1-CC2)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "B5")
+				(pinfunction "CC2_B5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U2")
+				(pin "6")
+				(pinfunction "CC2_6")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(J1-D+-PadA6)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A6")
+				(pinfunction "D+_A6")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J1")
+				(pin "B6")
+				(pinfunction "D+_B6")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(J1-D--PadA7)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A7")
+				(pinfunction "D-_A7")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J1")
+				(pin "B7")
+				(pinfunction "D-_B7")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(Q1-G)")
+			(class "Default")
+			(node
+				(ref "Q1")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "input")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(U1-DISCH)")
+			(class "Default")
+			(node
+				(ref "R2")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "DISCH_7")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(U1-OUT)")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "OUT_3")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(U2-CFG1)")
+			(class "Default")
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "9")
+				(pinfunction "CFG1_9")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(U2-DM)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "DP_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "DM_5")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "17")
+			(name "unconnected-(J1-NC-PadA8)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "A8")
+				(pinfunction "NC_A8")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "18")
+			(name "unconnected-(J1-NC-PadB8)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "B8")
+				(pinfunction "NC_B8")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "19")
+			(name "unconnected-(J1-NC-PadNC1)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "NC1")
+				(pinfunction "NC_NC1")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "20")
+			(name "unconnected-(J1-NC-PadNC2)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "NC2")
+				(pinfunction "NC_NC2")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "21")
+			(name "unconnected-(J1-NC-PadNC3)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "NC3")
+				(pinfunction "NC_NC3")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "22")
+			(name "unconnected-(J2-Pin_3-Pad3)")
+			(class "Default")
+			(node
+				(ref "J2")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "unconnected-(J3-Pin_3-Pad3)")
+			(class "Default")
+			(node
+				(ref "J3")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "unconnected-(J4-Pin_3-Pad3)")
+			(class "Default")
+			(node
+				(ref "J4")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "unconnected-(J5-Pin_3-Pad3)")
+			(class "Default")
+			(node
+				(ref "J5")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "26")
+			(name "unconnected-(J6-Pin_3-Pad3)")
+			(class "Default")
+			(node
+				(ref "J6")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "unconnected-(U2-CFG2-Pad2)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "CFG2_2")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "28")
+			(name "unconnected-(U2-CFG3-Pad3)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "CFG3_3")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "29")
+			(name "unconnected-(U2-PG-Pad10)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "10")
+				(pinfunction "PG_10")
+				(pintype "unspecified")
+			)
+		)
+	)
+)
