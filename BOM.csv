@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 "Xilence XPF80.R.PWM 80mm Leiser Gehäuselüfter, 4PIN PWM, 80x80x25mm",5,Amazon,$3.38,$16.90,https://www.amazon.de/Xilence-XPF80-R-PWM-XF040-PC-L%C3%BCfter-schwarz/dp/B01L6QAX76?dib=eyJ2IjoiMSJ9.k7qDTwhAqVnD7eawvOjHRcZzla4DArp6LdP6HoVG6ksxu_L9xFLm4o-oC3Js_qxdPOU4xXKGk0-fZdBzytR1h7CjS3TsDYISD_T7IwzwSfvNdr4YQ9wgKi2slyzGMsZpBdT_bdzz8I_W9Y2t4GsUqdQqWvlzWwF-6SJnUdArg0m59ryHWTnXoiUIzxBQelkW-c1tY5AOjT3X4fnBsY96_P1riRl0Ab0B-cURJMBaRgs.s4PuFdoq5uJ4JSVhrKrPVBSJP2xmOFjAerdzssla8fY&dib_tag=se&keywords=80x80%2Bl%C3%BCfter&qid=1792348578&rnid=389361011&sr=8-5&th=1
 NE555DR,5,LCSC,$0.12,$0.60,https://www.lcsc.com/product-detail/C7593.html
-Mosfet,1,LCSC,$0.10,$0.10,https://www.lcsc.com/product-detail/C20917.html
+Mosfet,5,LCSC,$0.10,$0.50,https://www.lcsc.com/product-detail/C20917.html
 Estimated total shipping,1,,,$0.00,
