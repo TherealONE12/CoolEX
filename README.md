@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CooleX
 
 A laptop cooling stand with up to 5 fans and custom PWM control. Built because my laptop kept overheating and commercial cooling pads are overpriced.
@@ -129,31 +128,3 @@ Thanks to asktheman for the sawtooth generator reference image that I ended up n
 
 
 Built by Jakob. With lots of <3 and some Bugs :)
-=======
-# CoolEX
-An coolerpad for YOur Laptop ( As loong as it is an Erazer Defender P20!)
-
-# How it looks:
-
-<img width="1538" height="853" alt="image" src="https://github.com/user-attachments/assets/c2ede106-3a22-424e-acf5-46acfea0ece2" />
-
-
-# Features: 
-
-It supports up to 5 Fans! (But less fans is also ok)
-
-PWM Managment as seen here:
-
-<img width="1078" height="834" alt="image" src="https://github.com/user-attachments/assets/8e0d5f9a-d0bb-482e-b2f7-62b8015a3b0b" />
-
-Costs under 30$*
-
-
-# Showcase:
-
-Once it arrrives, a cool showcase comes here...
-
-
-: * As of today, not including small parts. Taxes may change.
-
->>>>>>> 4a9be9ccff4012746771118b0a9671b093279dd6
