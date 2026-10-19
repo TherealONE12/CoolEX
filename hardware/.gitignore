@@ -1,0 +1,30 @@
+# KiCad backup files
+*.bak
+*.bck
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# KiCad lock files
+*.lck
+~*.kicad_*
+
+# Fabrication outputs (keep only the zip)
+hardware/gerbers/*.gbr
+hardware/gerbers/*.drl
+hardware/gerbers/*.gbrjob
+!hardware/gerbers/*.zip
+
+# Build artifacts
+*.net
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# History folders
+.history/
+pwm_Colex/
